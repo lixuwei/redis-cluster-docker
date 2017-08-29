@@ -1,8 +1,5 @@
 # docker-redis-cluster
-
-[![Docker Stars](https://img.shields.io/docker/stars/grokzen/redis-cluster.svg)](hub])
-[![Docker Pulls](https://img.shields.io/docker/pulls/grokzen/redis-cluster.svg)](hub])
-
+直接复制原来作者的的readme
 Docker image with redis built and installed from source.
 
 The main usage for this container is to test redis cluster code. For example in https://github.com/Grokzen/redis-py-cluster repo.
